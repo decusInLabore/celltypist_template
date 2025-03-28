@@ -1,1 +1,1 @@
-# celltypist_template
+# celltypist
