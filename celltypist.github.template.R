@@ -14,10 +14,10 @@ a renv part for the R-environment.
 ## Cloning the github repo ##
 Start by cloning the github repo into a place on nemo, e.g. somewhere in your project.
 
-git clone git@github.com:FrancisCrickInstitute/celltypist.git
+git clone git@github.com:FrancisCrickInstitute/celltypist_template.git
 
 ## cd into the celltypist directory
-cd celltypist
+cd celltypist_template
 
 On Nemo, run at the command line the following:
 
